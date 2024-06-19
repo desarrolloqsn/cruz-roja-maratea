@@ -68,7 +68,7 @@ export default function GrafoPalabras() {
         <div>Generado con los términos más mencionados</div>
         <div className='boton-abrir-externo'>
     <Tooltip title='Abrir en otro navegador'>
-    <a href={`https://qsngrafos.vercel.app/palabras/39761017-M/grafo_palabras-frecuentes-${filtroFecha}.html`} target="_blank"><Button  shape="circle">
+    <a href={`https://qsngrafos.vercel.app/palabras/39761017-L/grafo_palabras-frecuentes-${filtroFecha}.html`} target="_blank"><Button  shape="circle">
         <MdOpenInNew/>
     </Button>
      </a>

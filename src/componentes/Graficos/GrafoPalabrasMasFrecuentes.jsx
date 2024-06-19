@@ -183,7 +183,7 @@ Esta combinación de grafos, proporciona una visión más profunda y precisa de 
     </Button>
     </Tooltip>
     <Tooltip title='Abrir en otro navegador'>
-    <a href={`https://qsngrafos.vercel.app/palabras/39761017-M/grafo_palabras-frecuentes-${filtroFecha}.html`} target="_blank"><Button  shape="circle">
+    <a href={`https://qsngrafos.vercel.app/palabras/39761017-L/grafo_palabras-frecuentes-${filtroFecha}.html`} target="_blank"><Button  shape="circle">
  
         <MdOpenInNew/>
     </Button>
@@ -193,7 +193,7 @@ Esta combinación de grafos, proporciona una visión más profunda y precisa de 
     <div className='bigramas-trigramas'>
       <div id="bigramas" className='carta2' style={{backgroundColor:"black"}}></div>
       <Tooltip title='Abrir en otro navegador'>
-    <a href={`https://qsngrafos.vercel.app/palabras/39761017-M/grafo_bigramas-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
+    <a href={`https://qsngrafos.vercel.app/palabras/39761017-L/grafo_bigramas-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
         <MdOpenInNew/>
     </Button>
      </a>
@@ -202,7 +202,7 @@ Esta combinación de grafos, proporciona una visión más profunda y precisa de 
       <div className='bigramas-trigramas'>
       <div id="trigramas" className='carta2' style={{backgroundColor:"black"}}></div>
       <Tooltip title='Abrir en otro navegador'>
-    <a href={`https://qsngrafos.vercel.app/palabras/39761017-M/grafo_trigramas-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
+    <a href={`https://qsngrafos.vercel.app/palabras/39761017-L/grafo_trigramas-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
         <MdOpenInNew/>
     </Button>
      </a>
@@ -220,7 +220,7 @@ Esta combinación de grafos, proporciona una visión más profunda y precisa de 
     </Button>
      </Tooltip>
      <Tooltip title='Abrir en otro navegador'>
-    <a href={`https://qsngrafos.vercel.app/palabras/39761017-M/grafo_palabras-frecuentes-${filtroFecha}.html`} target="_blank"><Button  shape="circle">
+    <a href={`https://qsngrafos.vercel.app/palabras/39761017-L/grafo_palabras-frecuentes-${filtroFecha}.html`} target="_blank"><Button  shape="circle">
         <MdOpenInNew/>
     </Button>
      </a>
@@ -230,7 +230,7 @@ Esta combinación de grafos, proporciona una visión más profunda y precisa de 
       <div className='bigramas-trigramas'>
       <div id="bigramas" className='carta2' style={{backgroundColor:"black"}}></div>
       <Tooltip title='Abrir en otro navegador'>
-    <a href={`https://qsngrafos.vercel.app/palabras/39761017-M/grafo_bigramas-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
+    <a href={`https://qsngrafos.vercel.app/palabras/39761017-L/grafo_bigramas-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
         <MdOpenInNew/>
     </Button>
      </a>
@@ -240,7 +240,7 @@ Esta combinación de grafos, proporciona una visión más profunda y precisa de 
       <div className='bigramas-trigramas'>
       <div id="trigramas" className='carta2' style={{backgroundColor:"black"}}></div>
       <Tooltip title='Abrir en otro navegador'>
-    <a href={`https://qsngrafos.vercel.app/palabras/39761017-M/grafo_trigramas-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
+    <a href={`https://qsngrafos.vercel.app/palabras/39761017-L/grafo_trigramas-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
         <MdOpenInNew/>
     </Button>
      </a>

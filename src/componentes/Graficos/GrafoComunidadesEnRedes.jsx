@@ -31,7 +31,7 @@ export default function GrafoComunidadesEnRedes() {
   const [filtroFecha, setFiltroFecha] = useState('');
   const [display, setDisplay] = useState(true);
 
-  const [fechas, setFechas] = useState(Object.keys(json));
+  const [fechas, setFechas] = useState(Object.keys(jsonFechas));
   const [dataTablas, setDataTablas] = useState({
     "Destacados": [],
     "Claves": [],
@@ -216,7 +216,7 @@ function handleDisplay() {
         <Select
           className='fechas-grafos'
           onChange={handleFiltroFechaChange}
-          value={filtroFecha}
+          value={opciones}
           placeholder='Seleccione una fecha'
         >
           {opciones}
@@ -240,7 +240,7 @@ function handleDisplay() {
     <div>
     <div className='carta video-texto2 scrollable-card'> 
     <Tooltip title="Click para ver el grafo">
-    <a href={`https://qsngrafos.vercel.app/comunidades/39761017-M/grafo_comunidades-${filtroFecha}.html`} target="_blank">
+    <a href={`https://qsngrafos.vercel.app/comunidades/39761017-L/grafo_comunidades-${filtroFecha}.html`} target="_blank">
     <div className='video-explicativo cartaGrafo'>
       <img src={imagen} className='imagen-grafo' />
     </div>
